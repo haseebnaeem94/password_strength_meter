@@ -22,7 +22,7 @@ st.markdown(
         border: 1px solid #ccc;
         border-radius: 5px;
         width: 300px; /* Adjust width as needed */
-        color: white;
+        
     }
     .strength-indicator {
         height: 10px;
