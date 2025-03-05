@@ -6,7 +6,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: rgb(5, 65, 89); /* Blue background */
+        background-color: black; /* Black background */
         text color: white;
     }
     .stButton>button {
@@ -22,6 +22,7 @@ st.markdown(
         border: 1px solid #ccc;
         border-radius: 5px;
         width: 300px; /* Adjust width as needed */
+        color: white;
     }
     .strength-indicator {
         height: 10px;
