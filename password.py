@@ -7,6 +7,7 @@ st.markdown(
     <style>
     .stApp {
         background-color: rgb(5, 65, 89); /* Blue background */
+        text color: white;
     }
     .stButton>button {
         background-color: #4CAF50; /* Green button */
